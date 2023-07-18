@@ -2448,9 +2448,9 @@ regexp.prototype.flags@^1.4.3, regexp.prototype.flags@^1.5.0:
     define-properties "^1.2.0"
     functions-have-names "^1.2.3"
 
-"remote-app@https://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@github.com/DhruvinPatel78/remote-app":
+"remote-app@git+ssh://git@github.com:DhruvinPatel78/remote-app.git#main":
   version "0.1.0"
-  resolved "https://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@github.com/DhruvinPatel78/remote-app#74331a8457eaba814e3d1cd69694bd5611349e78"
+  resolved "git+ssh://git@github.com:DhruvinPatel78/remote-app.git#74331a8457eaba814e3d1cd69694bd5611349e78"
   dependencies:
     "@module-federation/nextjs-mf" "^6.5.1"
     "@types/node" "20.2.5"
