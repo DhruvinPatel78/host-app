@@ -11,7 +11,7 @@ const nextConfig = {
           name: 'hostApp',
           remotes: {
             // remoteApp: `remoteApp@http://localhost:3000/_next/static/${isServer ? 'ssr' : 'chunks'}/remoteEntry.js`,
-              remoteApp: `remoteApp@https://mf-remote-app.netlify.app/_next/static/${isServer ? 'ssr' : 'chunks'}/remoteEntry.js`,
+            //   remoteApp: `remoteApp@https://mf-remote-app.netlify.app/_next/static/${isServer ? 'ssr' : 'chunks'}/remoteEntry.js`,
           },
           filename: 'static/chunks/remoteEntry.js',
           exposes: {}

@@ -1,1 +1,1 @@
-declare module "remoteApp/counter";
+// declare module "remoteApp/counter";
