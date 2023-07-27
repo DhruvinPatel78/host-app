@@ -20,7 +20,7 @@
     "postcss": "8.4.24",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "remote-app": "git+https://oauth2:aa4037fb7e725995e35812e45aeed51e55d74270@github.com/DhruvinPatel78/remote-app.git",
+    "remote-app": "git+https://oauth2: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@github.com/DhruvinPatel78/remote-app.git",
     "webpack": "^5.85.1",
     "tailwindcss": "3.3.2"
   }
