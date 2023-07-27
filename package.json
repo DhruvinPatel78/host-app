@@ -21,6 +21,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "remote-app": "git+ssh://git@github.com:DhruvinPatel78/remote-app.git#main",
-    "webpack": "^5.85.1"
+    "webpack": "^5.85.1",
+    "tailwindcss": "3.3.2"
   }
 }
